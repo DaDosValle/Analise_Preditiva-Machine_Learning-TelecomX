@@ -1,5 +1,9 @@
 # Análise Preditiva de Churn -- TelecomX
 
+## Projeto de Machine Learning para redução de churn com 81% de recall e potencial economia anual de até R$ 328 mil.
+
+
+
 ## Visão Geral
 
 Este projeto tem como objetivo desenvolver um modelo preditivo capaz de
