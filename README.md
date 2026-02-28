@@ -124,7 +124,7 @@ Isso significa que o modelo identifica 81% dos clientes que realmente cancelaria
 
 ------------------------------------------------------------------------
 
-##  Simulação do Impacto Financeiro
+##  Simulação do Impacto Financeiro (Mensal)
 
 Simulação baseada em:
 
