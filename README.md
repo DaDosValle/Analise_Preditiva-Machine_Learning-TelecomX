@@ -44,7 +44,7 @@ A TelecomX enfrenta uma taxa de churn de aproximadamente 27%, o que representa p
 
 ------------------------------------------------------------------------
 
-## 🗂️ Descrição das Variáveis Principais
+##  Descrição das Variáveis Principais
 
 -   `churn` → Variável alvo (0 = permanece, 1 = evadiu)\
 -   `tipo_contrato` → Mensal, Um ano, Dois anos\
@@ -72,9 +72,9 @@ Principais insights identificados:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Modelagem Preditiva
+##  Modelagem Preditiva
 
-### 🔄 Pipeline Utilizado
+###  Pipeline Utilizado
 
 -   StandardScaler\
 -   SMOTE (tratamento de desbalanceamento)\
@@ -92,7 +92,7 @@ Pipeline(steps=[
 
 ------------------------------------------------------------------------
 
-## 🤖 Modelos Avaliados
+##  Modelos Avaliados
 
 -   Regressão Logística\
 -   Árvore de Decisão\
@@ -124,7 +124,7 @@ Isso significa que o modelo identifica 81% dos clientes que realmente cancelaria
 
 ------------------------------------------------------------------------
 
-## 💰 Simulação do Impacto Financeiro
+##  Simulação do Impacto Financeiro
 
 Simulação baseada em:
 
@@ -159,7 +159,7 @@ Economia estimada: ~R$ 328.050
 
 ------------------------------------------------------------------------
 
-## 📈 Melhorias Futuras
+##  Melhorias Futuras
 
 -   Feature engineering adicional\
 -   Teste de modelos mais robustos (XGBoost, LightGBM)\
@@ -167,7 +167,7 @@ Economia estimada: ~R$ 328.050
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 -   Python\
 -   Pandas\
@@ -179,7 +179,7 @@ Economia estimada: ~R$ 328.050
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Conclusão Estratégica
+##  Conclusão Estratégica
 
 A implementação do modelo preditivo, mesmo com taxa de retenção parcial (30%), já gera impacto financeiro relevante.
 
@@ -189,7 +189,7 @@ Com estrutura de retenção eficiente, o modelo pode reduzir drasticamente perda
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Autor
+##  Autor
 
 Fernando do Valle\
 [Meu Linkedin](http://linkedin.com/in/fernando-do-valle/)
